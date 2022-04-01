@@ -57,3 +57,8 @@ main {
   border: none;
   cursor: pointer;
 }
+
+/* meme page  */
+#memeImg {
+  width: 50%;
+}
